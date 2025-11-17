@@ -1,8 +1,3 @@
-LeetCode Journey
-
-A colourful and motivating README to track your DSA progress!
-
----
 
 ## ✨ **About This Repository**
 
